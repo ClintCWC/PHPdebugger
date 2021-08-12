@@ -1,6 +1,6 @@
 <?php
 by clint
-free to use however you like, relys on jquery to work nicely.
+free to use however you like, relies on jquery to work nicely.
 
 //usage debug (array/object/str/variable/etc);
 //usage debug ($array/object , 'strname'); $name of variable only need for clarity
